@@ -1,0 +1,2452 @@
+{
+  "inventory": {
+    "blocks": [
+      {
+        "blockName": "header",
+        "instances": [
+          {
+            "url": "https://www.knowpneumonia.com/",
+            "id": "box-id-571939938",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1112,
+            "height": 100,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[1]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[1]/div[1]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Home-page\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-utility\"]/div[@class=\"header-logo\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[1]/div[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Home-page\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-utility\"]/div[@class=\"utility-section new-font-section header-social-icons\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 2,
+              "numRows": 1
+            },
+            "x": 84,
+            "y": 0,
+            "mapping": "header",
+            "customBlockName": "aiheader-3uowvd-571939938"
+          }
+        ]
+      },
+      {
+        "blockName": "footer",
+        "instances": [
+          {
+            "url": "https://www.knowpneumonia.com/",
+            "id": "box-id-1754781443",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1150,
+            "height": 100,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Home-page\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row2\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 2,
+              "numRows": 1
+            },
+            "x": 40,
+            "y": 2229,
+            "mapping": "footer",
+            "customBlockName": "aifooter-3uowvd-1754781443"
+          }
+        ]
+      },
+      {
+        "blockName": "columns",
+        "instances": [
+          {
+            "url": "https://www.knowpneumonia.com/",
+            "id": "box-id-571939969",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1112,
+            "height": 79,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Home-page\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item home analytics-menu-caret menu-item-with-dd\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[3]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Home-page\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item analytics-menu\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[4]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Home-page\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item analytics-menu\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[5]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Home-page\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item last-menu analytics-menu-caret menu-item-with-dd\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 4,
+              "numRows": 1
+            },
+            "x": 84,
+            "y": 100,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-3uowvd-571939969"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/",
+            "id": "box-id--718476658",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 735,
+            "height": 218,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[1]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Home-page\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"homepage\"]/div[@class=\"content-homepage\"]/section[@class=\"higher-risk-section\"]/div[@class=\"higher-risk\"]/div[@class=\"higher-risk-content\"]/div[@class=\"higher-risk-older analytics-parent-order\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Home-page\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"homepage\"]/div[@class=\"content-homepage\"]/section[@class=\"higher-risk-section\"]/div[@class=\"higher-risk\"]/div[@class=\"higher-risk-content\"]/div[@class=\"or-circle\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/div[3]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Home-page\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"homepage\"]/div[@class=\"content-homepage\"]/section[@class=\"higher-risk-section\"]/div[@class=\"higher-risk\"]/div[@class=\"higher-risk-content\"]/div[@class=\"higher-risk-younger analytics-parent-order\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 3,
+              "numRows": 1
+            },
+            "x": 461,
+            "y": 717,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-3uowvd-718476658"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/",
+            "id": "box-id--904444253",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1120,
+            "height": 383,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
+                "xpathWithDetails": "id(\"joesgameplan\")/div[@class=\"banner-what-is-pneumonia mobile-align\"]/div[@class=\"video-banner\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]",
+                "xpathWithDetails": "id(\"joesgameplan\")/div[@class=\"banner-what-is-pneumonia mobile-align\"]/div[@class=\"banner-text-home pneumonia-banner\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 2,
+              "numRows": 1
+            },
+            "x": 80,
+            "y": 965,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-3uowvd-904444253"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/",
+            "id": "box-id--1262848883",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1200,
+            "height": 340,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[3]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[3]/div[1]/div[1]",
+                "xpathWithDetails": "id(\"section-1\")"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[3]/div[1]/div[2]",
+                "xpathWithDetails": "id(\"section-2\")"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[3]/div[1]/div[3]",
+                "xpathWithDetails": "id(\"section-3\")"
+              }
+            ],
+            "layout": {
+              "numCols": 3,
+              "numRows": 1
+            },
+            "x": 40,
+            "y": 1684,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-3uowvd-1262848883"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/",
+            "id": "box-id-1754781412",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1150,
+            "height": 95,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Home-page\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items has-sub-menu\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Home-page\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Home-page\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[5]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Home-page\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items has-sub-menu\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 4,
+              "numRows": 1
+            },
+            "x": 40,
+            "y": 2080,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-3uowvd-1754781412"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/what-is-pneumococcal-disease",
+            "id": "box-id-571939969",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1112,
+            "height": 79,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Pneumonia\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item home analytics-menu-caret menu-item-with-dd\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[3]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Pneumonia\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item analytics-menu\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[4]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Pneumonia\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item analytics-menu\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[5]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Pneumonia\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item last-menu analytics-menu-caret menu-item-with-dd\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 4,
+              "numRows": 1
+            },
+            "x": 84,
+            "y": 100,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-qk6bif-571939969"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/what-is-pneumococcal-disease",
+            "id": "box-id-317662914",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1100,
+            "height": 484,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Pneumonia\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container pneumonia-disease\"]/div[@class=\"what-is-pneumonia\"]/div[@class=\"content-what-is-pneumonia\"]/div[@class=\"banner-what-is-pneumonia mobile-align\"]/div[@class=\"banner-text pneumonia-banner\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Pneumonia\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container pneumonia-disease\"]/div[@class=\"what-is-pneumonia\"]/div[@class=\"content-what-is-pneumonia\"]/div[@class=\"banner-what-is-pneumonia mobile-align\"]/div[@class=\"video-banner\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 2,
+              "numRows": 1
+            },
+            "x": 90,
+            "y": 179,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-qk6bif-317662914"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/what-is-pneumococcal-disease",
+            "id": "box-id--94652946",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1100,
+            "height": 476,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Pneumonia\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container pneumonia-disease\"]/div[@class=\"what-is-pneumonia\"]/section[@class=\"know-this mobile-align\"]/div[@class=\"vaccine-benefits flex-align-center\"]/div[@class=\"know-this-image\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Pneumonia\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container pneumonia-disease\"]/div[@class=\"what-is-pneumonia\"]/section[@class=\"know-this mobile-align\"]/div[@class=\"vaccine-benefits flex-align-center\"]/div[@class=\"know-this-text\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 2,
+              "numRows": 1
+            },
+            "x": 90,
+            "y": 1235,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-qk6bif-94652946"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/what-is-pneumococcal-disease",
+            "id": "box-id--94652915",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1100,
+            "height": 218,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[2]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[2]/div[1]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Pneumonia\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container pneumonia-disease\"]/div[@class=\"what-is-pneumonia\"]/section[@class=\"higher-risk-section\"]/div[@class=\"higher-risk\"]/div[@class=\"higher-risk-content\"]/div[@class=\"higher-risk-older analytics-parent-order\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[2]/div[3]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Pneumonia\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container pneumonia-disease\"]/div[@class=\"what-is-pneumonia\"]/section[@class=\"higher-risk-section\"]/div[@class=\"higher-risk\"]/div[@class=\"higher-risk-content\"]/div[@class=\"higher-risk-younger analytics-parent-order\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 2,
+              "numRows": 1
+            },
+            "x": 90,
+            "y": 1711,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-qk6bif-94652915"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/what-is-pneumococcal-disease",
+            "id": "box-id-317662976",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1100,
+            "height": 173,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]",
+                "xpathWithDetails": "id(\"true-false-question\")/div[@class=\"true-false-text\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]",
+                "xpathWithDetails": "id(\"true-false-question\")/div[@class=\"true-false-radio\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 2,
+              "numRows": 1
+            },
+            "x": 90,
+            "y": 2126,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-qk6bif-317662976"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/what-is-pneumococcal-disease",
+            "id": "box-id--94652853",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1100,
+            "height": 284,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[4]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[4]/div[1]/div[1]",
+                "xpathWithDetails": "id(\"section-1\")"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[4]/div[1]/div[2]",
+                "xpathWithDetails": "id(\"section-2\")"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[4]/div[1]/div[3]",
+                "xpathWithDetails": "id(\"section-3\")"
+              }
+            ],
+            "layout": {
+              "numCols": 3,
+              "numRows": 1
+            },
+            "x": 90,
+            "y": 2488,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-qk6bif-94652853"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/what-is-pneumococcal-disease",
+            "id": "box-id-1754781412",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1150,
+            "height": 95,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Pneumonia\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items has-sub-menu\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Pneumonia\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Pneumonia\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[5]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Pneumonia\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items has-sub-menu\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 4,
+              "numRows": 1
+            },
+            "x": 40,
+            "y": 2828,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-qk6bif-1754781412"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/symptoms-and-impact",
+            "id": "box-id-571939969",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1112,
+            "height": 79,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Symptoms-Impact\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item home analytics-menu-caret menu-item-with-dd\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[3]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Symptoms-Impact\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item analytics-menu\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[4]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Symptoms-Impact\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item analytics-menu\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[5]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Symptoms-Impact\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item last-menu analytics-menu-caret menu-item-with-dd\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 4,
+              "numRows": 1
+            },
+            "x": 84,
+            "y": 100,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-hdagy0-571939969"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/symptoms-and-impact",
+            "id": "box-id--473954442",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1051,
+            "height": 276,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Symptoms-Impact\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"symptoms-and-impact\"]/div[@class=\"content-symptoms-and-impact\"]/section[@class=\"know-this mobile-align\"]/div[@class=\"vaccine-benefits flex-align-center\"]/div[@class=\"know-this-image\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Symptoms-Impact\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"symptoms-and-impact\"]/div[@class=\"content-symptoms-and-impact\"]/section[@class=\"know-this mobile-align\"]/div[@class=\"vaccine-benefits flex-align-center\"]/div[@class=\"know-this-text\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 2,
+              "numRows": 1
+            },
+            "x": 90,
+            "y": 1064,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-hdagy0-473954442"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/symptoms-and-impact",
+            "id": "box-id-510016962",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1100,
+            "height": 173,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/div[1]",
+                "xpathWithDetails": "id(\"true-false-question\")/div[@class=\"true-false-text\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]/div[1]/div[2]",
+                "xpathWithDetails": "id(\"true-false-question\")/div[@class=\"true-false-radio\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 2,
+              "numRows": 1
+            },
+            "x": 90,
+            "y": 1400,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-hdagy0-510016962"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/symptoms-and-impact",
+            "id": "box-id--1262848914",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1100,
+            "height": 284,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[2]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]",
+                "xpathWithDetails": "id(\"section-1\")"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[2]",
+                "xpathWithDetails": "id(\"section-2\")"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[3]",
+                "xpathWithDetails": "id(\"section-3\")"
+              }
+            ],
+            "layout": {
+              "numCols": 3,
+              "numRows": 1
+            },
+            "x": 90,
+            "y": 1762,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-hdagy0-1262848914"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/symptoms-and-impact",
+            "id": "box-id--2147192605",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1150,
+            "height": 95,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Symptoms-Impact\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items has-sub-menu\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Symptoms-Impact\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Symptoms-Impact\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[5]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Symptoms-Impact\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items has-sub-menu\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 4,
+              "numRows": 1
+            },
+            "x": 40,
+            "y": 2102,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-hdagy0-2147192605"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/understand-your-risk",
+            "id": "box-id-571939969",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1112,
+            "height": 74,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Understand-Risk\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item home analytics-menu-caret menu-item-with-dd\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[3]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Understand-Risk\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item analytics-menu\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[4]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Understand-Risk\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item analytics-menu\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[5]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Understand-Risk\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item last-menu analytics-menu-caret menu-item-with-dd\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 4,
+              "numRows": 1
+            },
+            "x": 84,
+            "y": 95,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-o27a5t-571939969"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/understand-your-risk",
+            "id": "box-id--1262848914",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1110,
+            "height": 377,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[2]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Understand-Risk\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"homepage understand-page\"]/div[@class=\"content-homepage\"]/section[@class=\"know-this mobile-align\"]/div[@class=\"vaccine-benefits left-align flex-align-center\"]/div[@class=\"know-this-image\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Understand-Risk\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"homepage understand-page\"]/div[@class=\"content-homepage\"]/section[@class=\"know-this mobile-align\"]/div[@class=\"vaccine-benefits left-align flex-align-center\"]/div[@class=\"know-this-text\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 2,
+              "numRows": 1
+            },
+            "x": 85,
+            "y": 1010,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-o27a5t-1262848914"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/understand-your-risk",
+            "id": "box-id-243147295",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 756,
+            "height": 278,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[4]/div[2]/div[8]/p[2]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[4]/div[2]/div[8]/p[2]/img[2]",
+                "xpathWithDetails": "id(\"health-condition\")/div[@class=\"accordion-section\"]/div[@class=\"panel analytics-panel\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[4]/div[2]/div[8]/p[2]/img[3]",
+                "xpathWithDetails": "id(\"health-condition\")/div[@class=\"accordion-section\"]/div[@class=\"panel analytics-panel\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 2,
+              "numRows": 1
+            },
+            "x": 261,
+            "y": 3216,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-o27a5t-243147295"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/understand-your-risk",
+            "id": "box-id--1262848790",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1110,
+            "height": 284,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[6]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[6]/div[1]/div[1]",
+                "xpathWithDetails": "id(\"section-1\")"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[6]/div[1]/div[2]",
+                "xpathWithDetails": "id(\"section-2\")"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[6]/div[1]/div[3]",
+                "xpathWithDetails": "id(\"section-3\")"
+              }
+            ],
+            "layout": {
+              "numCols": 3,
+              "numRows": 1
+            },
+            "x": 85,
+            "y": 3992,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-o27a5t-1262848790"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/understand-your-risk",
+            "id": "box-id-1754781412",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1150,
+            "height": 95,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Understand-Risk\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items has-sub-menu\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Understand-Risk\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Understand-Risk\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[5]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Understand-Risk\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items has-sub-menu\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 4,
+              "numRows": 1
+            },
+            "x": 40,
+            "y": 4332,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-o27a5t-1754781412"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/help-protect-yourself",
+            "id": "box-id-571939969",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1112,
+            "height": 79,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Help-Protect\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item home analytics-menu-caret menu-item-with-dd\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[3]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Help-Protect\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item analytics-menu\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[4]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Help-Protect\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item analytics-menu\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[5]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Help-Protect\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item last-menu analytics-menu-caret menu-item-with-dd\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 4,
+              "numRows": 1
+            },
+            "x": 84,
+            "y": 100,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-qcdhqq-571939969"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/help-protect-yourself",
+            "id": "box-id-1722200800",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1200,
+            "height": 197,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]",
+                "xpathWithDetails": "id(\"true-false-question\")/div[@class=\"true-false-text\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/section[1]/div[1]/div[1]/div[2]",
+                "xpathWithDetails": "id(\"true-false-question\")/div[@class=\"true-false-radio\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 2,
+              "numRows": 1
+            },
+            "x": 40,
+            "y": 1124,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-qcdhqq-1722200800"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/help-protect-yourself",
+            "id": "box-id-1274378543",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1280,
+            "height": 454,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[1]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Help-Protect\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/section[@class=\"know-this protect mobile-align\"]/div[@class=\"vaccine-benefits left-align flex-align-center\"]/div[@class=\"know-this-image\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Help-Protect\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/section[@class=\"know-this protect mobile-align\"]/div[@class=\"vaccine-benefits left-align flex-align-center\"]/div[@class=\"know-this-text\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 2,
+              "numRows": 1
+            },
+            "x": 0,
+            "y": 1321,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-qcdhqq-1274378543"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/help-protect-yourself",
+            "id": "box-id-1722200862",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1200,
+            "height": 223,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[6]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[6]/section[1]/div[1]/div[1]/div[1]",
+                "xpathWithDetails": "id(\"true-false-question1\")/div[@class=\"true-false-text\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[6]/section[1]/div[1]/div[1]/div[2]",
+                "xpathWithDetails": "id(\"true-false-question1\")/div[@class=\"true-false-radio\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 2,
+              "numRows": 1
+            },
+            "x": 40,
+            "y": 1922,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-qcdhqq-1722200862"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/help-protect-yourself",
+            "id": "box-id-1274378574",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1280,
+            "height": 296,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[2]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]",
+                "xpathWithDetails": "id(\"section-2\")"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Help-Protect\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/section[@class=\"help-protect-self\"]/div[@class=\"common-menu\"]/div[@id=\"section-3\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[3]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Help-Protect\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/section[@class=\"help-protect-self\"]/div[@class=\"common-menu\"]/div[@id=\"section-3\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 3,
+              "numRows": 1
+            },
+            "x": 0,
+            "y": 2672,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-qcdhqq-1274378574"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/help-protect-yourself",
+            "id": "box-id-1562427395",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1150,
+            "height": 95,
+            "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Help-Protect\"]/div[@class=\"main-wrapper\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items has-sub-menu\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Help-Protect\"]/div[@class=\"main-wrapper\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Help-Protect\"]/div[@class=\"main-wrapper\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[5]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Help-Protect\"]/div[@class=\"main-wrapper\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items has-sub-menu\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 4,
+              "numRows": 1
+            },
+            "x": 40,
+            "y": 3024,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-qcdhqq-1562427395"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/sitemap",
+            "id": "box-id-571939969",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1112,
+            "height": 79,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Sitemap\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item home analytics-menu-caret menu-item-with-dd\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[3]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Sitemap\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item analytics-menu\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[4]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Sitemap\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item analytics-menu\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[5]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Sitemap\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item last-menu analytics-menu-caret menu-item-with-dd\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 4,
+              "numRows": 1
+            },
+            "x": 84,
+            "y": 100,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-5oczlq-571939969"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/sitemap",
+            "id": "box-id-1754781412",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1150,
+            "height": 95,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Sitemap\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items has-sub-menu\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Sitemap\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Sitemap\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[5]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Sitemap\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items has-sub-menu\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 4,
+              "numRows": 1
+            },
+            "x": 40,
+            "y": 863,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-5oczlq-1754781412"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/unsubscribe",
+            "id": "box-id-571939969",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1112,
+            "height": 79,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Unsubscribe\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item home analytics-menu-caret menu-item-with-dd\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[3]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Unsubscribe\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item analytics-menu\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[4]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Unsubscribe\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item analytics-menu\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[5]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Unsubscribe\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item last-menu analytics-menu-caret menu-item-with-dd\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 4,
+              "numRows": 1
+            },
+            "x": 84,
+            "y": 100,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-cm8jx6-571939969"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/unsubscribe",
+            "id": "box-id--1295421403",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1150,
+            "height": 95,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Unsubscribe\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items has-sub-menu\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[3]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Unsubscribe\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[4]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Unsubscribe\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Unsubscribe\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items has-sub-menu\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 4,
+              "numRows": 1
+            },
+            "x": 40,
+            "y": 736,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-cm8jx6-1295421403"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/take-action",
+            "id": "box-id-571939969",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1112,
+            "height": 79,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Take-Action\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item home analytics-menu-caret menu-item-with-dd\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[3]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Take-Action\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item analytics-menu\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[4]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Take-Action\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item analytics-menu\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[5]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Take-Action\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item last-menu analytics-menu-caret menu-item-with-dd\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 4,
+              "numRows": 1
+            },
+            "x": 84,
+            "y": 100,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-hcmuz-571939969"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/take-action",
+            "id": "box-id-1754781412",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1150,
+            "height": 95,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Take-Action\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items has-sub-menu\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Take-Action\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Take-Action\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[5]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Take-Action\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items has-sub-menu\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 4,
+              "numRows": 1
+            },
+            "x": 40,
+            "y": 1649,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-hcmuz-1754781412"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/share-your-story",
+            "id": "box-id-571939969",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1112,
+            "height": 79,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Share-story\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item home analytics-menu-caret menu-item-with-dd\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[3]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Share-story\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item analytics-menu\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[4]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Share-story\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item analytics-menu\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[5]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Share-story\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item last-menu analytics-menu-caret menu-item-with-dd\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 4,
+              "numRows": 1
+            },
+            "x": 84,
+            "y": 100,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-6gfxeo-571939969"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/share-your-story",
+            "id": "box-id-317662914",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1110,
+            "height": 290,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Share-story\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"text\"]/div[@class=\"share-your-story\"]/div[@class=\"story-section\"]/div[@class=\"story-tell\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Share-story\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"text\"]/div[@class=\"share-your-story\"]/div[@class=\"story-section\"]/div[@class=\"story-img\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 2,
+              "numRows": 1
+            },
+            "x": 85,
+            "y": 179,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-6gfxeo-317662914"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/share-your-story",
+            "id": "box-id-317662945",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1110,
+            "height": 1097,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]",
+                "xpathWithDetails": "id(\"myShareStoryForm\")"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Share-story\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"text\"]/div[@class=\"share-your-story\"]/div[@class=\"form-section\"]/div[@class=\"story-details\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 2,
+              "numRows": 1
+            },
+            "x": 85,
+            "y": 519,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-6gfxeo-317662945"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/share-your-story",
+            "id": "box-id-1754781412",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1150,
+            "height": 95,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Share-story\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items has-sub-menu\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Share-story\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Share-story\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[5]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Share-story\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items has-sub-menu\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 4,
+              "numRows": 1
+            },
+            "x": 40,
+            "y": 1672,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-6gfxeo-1754781412"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/helpful-resources",
+            "id": "box-id-571939969",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1112,
+            "height": 79,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Share-story\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item home analytics-menu-caret menu-item-with-dd\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[3]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Share-story\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item analytics-menu\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[4]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Share-story\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item analytics-menu\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[5]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Share-story\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item last-menu analytics-menu-caret menu-item-with-dd\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 4,
+              "numRows": 1
+            },
+            "x": 84,
+            "y": 100,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-ald6kd-571939969"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/helpful-resources",
+            "id": "box-id--94652946",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1020,
+            "height": 911,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Share-story\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"text\"]/div[@class=\"resources\"]/section[@class=\"resources-section-2\"]/div[@class=\"common-menu first\"]/div[@id=\"section-2\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Share-story\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"text\"]/div[@class=\"resources\"]/section[@class=\"resources-section-2\"]/div[@class=\"common-menu first\"]/div[@id=\"section-3\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[2]/div[1]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Share-story\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"text\"]/div[@class=\"resources\"]/section[@class=\"resources-section-2\"]/div[@class=\"common-menu second\"]/div[@id=\"section-2\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[2]/div[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Share-story\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"text\"]/div[@class=\"resources\"]/section[@class=\"resources-section-2\"]/div[@class=\"common-menu second\"]/div[@id=\"section-3\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[3]/div[1]/div[1]",
+                "xpathWithDetails": "id(\"section-4\")/div[@class=\"common-menu-image common-image-pfizerax\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[3]/div[1]/div[2]",
+                "xpathWithDetails": "id(\"section-4\")/div[@class=\"common-menu-text common-third-text\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 2,
+              "numRows": 3
+            },
+            "x": 130,
+            "y": 179,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-ald6kd-94652946"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/helpful-resources",
+            "id": "box-id-317662945",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1020,
+            "height": 407,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]",
+                "xpathWithDetails": "id(\"gmajoe \")/div[@class=\"banner-what-is-pneumonia mobile-align\"]/div[@class=\"video-banner\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]",
+                "xpathWithDetails": "id(\"gmajoe \")/div[@class=\"banner-what-is-pneumonia mobile-align\"]/div[@class=\"banner-text-home pneumonia-banner\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 2,
+              "numRows": 1
+            },
+            "x": 130,
+            "y": 1090,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-ald6kd-317662945"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/helpful-resources",
+            "id": "box-id--94652915",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1020,
+            "height": 344,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[2]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Share-story\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"text\"]/div[@class=\"resources\"]/section[@class=\"resource-bottom-section\"]/div[@class=\"common-menu\"]/div[@id=\"section-2\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Share-story\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"text\"]/div[@class=\"resources\"]/section[@class=\"resource-bottom-section\"]/div[@class=\"common-menu\"]/div[@id=\"section-3\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 2,
+              "numRows": 1
+            },
+            "x": 130,
+            "y": 1497,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-ald6kd-94652915"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/helpful-resources",
+            "id": "box-id-1754781412",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1150,
+            "height": 95,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Share-story\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items has-sub-menu\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Share-story\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Share-story\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[5]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Share-story\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items has-sub-menu\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 4,
+              "numRows": 1
+            },
+            "x": 40,
+            "y": 1897,
+            "mapping": "columns",
+            "customBlockName": "aicolumns-ald6kd-1754781412"
+          }
+        ]
+      },
+      {
+        "blockName": "hero",
+        "instances": [
+          {
+            "url": "https://www.knowpneumonia.com/",
+            "id": "box-id-510016931",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1200,
+            "height": 578,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 40,
+            "y": 179,
+            "mapping": "hero",
+            "customBlockName": "aihero-3uowvd-510016931"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/understand-your-risk",
+            "id": "box-id-510016931",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1110,
+            "height": 508,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 85,
+            "y": 169,
+            "mapping": "hero",
+            "customBlockName": "aihero-o27a5t-510016931"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/understand-your-risk",
+            "id": "box-id-1534353930",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 666,
+            "height": 502,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[5]/div[1]/div[2]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 1,
+              "numRows": 1
+            },
+            "x": 494,
+            "y": 3270,
+            "mapping": "hero",
+            "customBlockName": "aihero-o27a5t-1534353930"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/help-protect-yourself",
+            "id": "box-id-1722200707",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1110,
+            "height": 379,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+            "childrenXpaths": [
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Help-Protect\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"help-protect-yourself\"]/div[@class=\"content-help-protect-yourself\"]/div[@class=\"banner-help-protect-yourself\"]/div[@class=\"banner-text\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Help-Protect\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"help-protect-yourself\"]/div[@class=\"content-help-protect-yourself\"]/div[@class=\"banner-help-protect-yourself\"]/div[@class=\"banner-text\"]"
+              },
+              {
+                "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]",
+                "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Help-Protect\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"help-protect-yourself\"]/div[@class=\"content-help-protect-yourself\"]/div[@class=\"banner-help-protect-yourself\"]/div[@class=\"banner-text\"]/a[@class=\"hidden-xs analytics-anc-img\"]"
+              }
+            ],
+            "layout": {
+              "numCols": 1,
+              "numRows": 3
+            },
+            "x": 85,
+            "y": 179,
+            "mapping": "hero",
+            "customBlockName": "aihero-qcdhqq-1722200707"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/take-action",
+            "id": "box-id-510016931",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1110,
+            "height": 348,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 85,
+            "y": 179,
+            "mapping": "hero",
+            "customBlockName": "aihero-hcmuz-510016931"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/take-action",
+            "id": "box-id-510016993",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1110,
+            "height": 742,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 1,
+              "numRows": 1
+            },
+            "x": 85,
+            "y": 644,
+            "mapping": "hero",
+            "customBlockName": "aihero-hcmuz-510016993"
+          }
+        ]
+      },
+      {
+        "blockName": "defaultContent",
+        "instances": [
+          {
+            "url": "https://www.knowpneumonia.com/",
+            "id": "box-id--718476689",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 436,
+            "height": 218,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 89,
+            "y": 717,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-3uowvd-718476689"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/",
+            "id": "box-id--760145438",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 560,
+            "height": 63,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 80,
+            "y": 1309,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-3uowvd-760145438"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/",
+            "id": "box-id--1262848914",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1200,
+            "height": 198,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[2]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 40,
+            "y": 1378,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-3uowvd-1262848914"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/",
+            "id": "box-id-510016993",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1200,
+            "height": 108,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 40,
+            "y": 1576,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-3uowvd-510016993"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/what-is-pneumococcal-disease",
+            "id": "box-id--455466449",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1100,
+            "height": 48,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/h2[1]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 90,
+            "y": 678,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-qk6bif-455466449"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/what-is-pneumococcal-disease",
+            "id": "box-id--1971040680",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 365,
+            "height": 350,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 90,
+            "y": 1651,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-qk6bif-1971040680"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/what-is-pneumococcal-disease",
+            "id": "box-id--94652884",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1100,
+            "height": 147,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[3]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 90,
+            "y": 1929,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-qk6bif-94652884"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/what-is-pneumococcal-disease",
+            "id": "box-id-317663007",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1100,
+            "height": 144,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 90,
+            "y": 2344,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-qk6bif-317663007"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/symptoms-and-impact",
+            "id": "box-id-491513394",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 485,
+            "height": 135,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 90,
+            "y": 219,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-hdagy0-491513394"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/symptoms-and-impact",
+            "id": "box-id--815151293",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 485,
+            "height": 56,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 90,
+            "y": 381,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-hdagy0-815151293"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/symptoms-and-impact",
+            "id": "box-id-2018601955",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 485,
+            "height": 180,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 90,
+            "y": 457,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-hdagy0-2018601955"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/symptoms-and-impact",
+            "id": "box-id-2018601986",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 485,
+            "height": 152,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 90,
+            "y": 637,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-hdagy0-2018601986"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/symptoms-and-impact",
+            "id": "box-id-2018602017",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 485,
+            "height": 96,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 90,
+            "y": 789,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-hdagy0-2018602017"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/symptoms-and-impact",
+            "id": "box-id-1678749724",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 704,
+            "height": 48,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]/h2[1]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 437,
+            "y": 1054,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-hdagy0-1678749724"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/symptoms-and-impact",
+            "id": "box-id-510016993",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1100,
+            "height": 144,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 90,
+            "y": 1618,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-hdagy0-510016993"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/understand-your-risk",
+            "id": "box-id--718476689",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 520,
+            "height": 332,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 85,
+            "y": 677,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-o27a5t-718476689"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/understand-your-risk",
+            "id": "box-id--1601350535",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1110,
+            "height": 296,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[4]/div[1]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 85,
+            "y": 2091,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-o27a5t-1601350535"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/understand-your-risk",
+            "id": "box-id-1626000062",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 792,
+            "height": 74,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[4]/div[2]/button[1]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 243,
+            "y": 2387,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-o27a5t-1626000062"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/understand-your-risk",
+            "id": "box-id--1674411207",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 756,
+            "height": 80,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[4]/div[2]/div[1]/p[1]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 261,
+            "y": 2461,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-o27a5t-1674411207"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/understand-your-risk",
+            "id": "box-id-1534353899",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 444,
+            "height": 502,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[5]/div[1]/div[1]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 85,
+            "y": 3270,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-o27a5t-1534353899"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/understand-your-risk",
+            "id": "box-id-510016962",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1110,
+            "height": 144,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 85,
+            "y": 3848,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-o27a5t-510016962"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/help-protect-yourself",
+            "id": "box-id--1628355057",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 980,
+            "height": 48,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/h2[1]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 150,
+            "y": 586,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-qcdhqq-1628355057"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/help-protect-yourself",
+            "id": "box-id-1722200831",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1280,
+            "height": 147,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[5]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 0,
+            "y": 1775,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-qcdhqq-1722200831"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/help-protect-yourself",
+            "id": "box-id-1722200893",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1280,
+            "height": 288,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[7]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 0,
+            "y": 2195,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-qcdhqq-1722200893"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/help-protect-yourself",
+            "id": "box-id-1722200924",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1100,
+            "height": 144,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[8]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 90,
+            "y": 2528,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-qcdhqq-1722200924"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/sitemap",
+            "id": "box-id-2096660721",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1015,
+            "height": 40,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 132,
+            "y": 229,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-5oczlq-2096660721"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/sitemap",
+            "id": "box-id-3617950",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1015,
+            "height": 49,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 132,
+            "y": 299,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-5oczlq-3617950"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/sitemap",
+            "id": "box-id-12019012",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1015,
+            "height": 100,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/ul[1]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 132,
+            "y": 348,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-5oczlq-12019012"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/sitemap",
+            "id": "box-id-3617981",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1015,
+            "height": 50,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 132,
+            "y": 448,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-5oczlq-3617981"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/sitemap",
+            "id": "box-id-3618012",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1015,
+            "height": 50,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 132,
+            "y": 498,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-5oczlq-3618012"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/sitemap",
+            "id": "box-id-3618043",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1015,
+            "height": 49,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[4]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 132,
+            "y": 548,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-5oczlq-3618043"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/sitemap",
+            "id": "box-id-12019043",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1015,
+            "height": 150,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/ul[2]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 132,
+            "y": 597,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-5oczlq-12019043"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/unsubscribe",
+            "id": "box-id-1722200707",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1112,
+            "height": 305,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 84,
+            "y": 179,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-cm8jx6-1722200707"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/take-action",
+            "id": "box-id-510016962",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1110,
+            "height": 27,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 85,
+            "y": 589,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-hcmuz-510016962"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/take-action",
+            "id": "box-id-510017024",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1110,
+            "height": 132,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 85,
+            "y": 1386,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-hcmuz-510017024"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/helpful-resources",
+            "id": "box-id-317662914",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1020,
+            "height": 188,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 130,
+            "y": 179,
+            "mapping": "defaultContent",
+            "customBlockName": "aidefaultContent-ald6kd-317662914"
+          }
+        ]
+      },
+      {
+        "blockName": "unknown",
+        "instances": [
+          {
+            "url": "https://www.knowpneumonia.com/what-is-pneumococcal-disease",
+            "id": "box-id--882778667",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 345,
+            "height": 480,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 50,
+            "y": 754,
+            "mapping": "unknown",
+            "customBlockName": "aiunknown-qk6bif-882778667"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/what-is-pneumococcal-disease",
+            "id": "box-id--882778636",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 345,
+            "height": 480,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[2]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 315,
+            "y": 754,
+            "mapping": "unknown",
+            "customBlockName": "aiunknown-qk6bif-882778636"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/symptoms-and-impact",
+            "id": "box-id-973328610",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1100,
+            "height": 759,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 90,
+            "y": 207,
+            "mapping": "unknown",
+            "customBlockName": "aiunknown-hdagy0-973328610"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/understand-your-risk",
+            "id": "box-id--718476658",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 624,
+            "height": 332,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 570,
+            "y": 677,
+            "mapping": "unknown",
+            "customBlockName": "aiunknown-o27a5t-718476658"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/understand-your-risk",
+            "id": "box-id--1262848883",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1110,
+            "height": 652,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[3]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 85,
+            "y": 1388,
+            "mapping": "unknown",
+            "customBlockName": "aiunknown-o27a5t-1262848883"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/understand-your-risk",
+            "id": "box-id--62193899",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 317,
+            "height": 45,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[3]/div[2]/a[1]/img[1]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 463,
+            "y": 2015,
+            "mapping": "unknown",
+            "customBlockName": "aiunknown-o27a5t-62193899"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/understand-your-risk",
+            "id": "box-id--1674411176",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 756,
+            "height": 261,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[4]/div[2]/div[1]/p[2]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 261,
+            "y": 2551,
+            "mapping": "unknown",
+            "customBlockName": "aiunknown-o27a5t-1674411176"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/understand-your-risk",
+            "id": "box-id--786907495",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 756,
+            "height": 277,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[4]/div[2]/div[2]/p[2]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 261,
+            "y": 2645,
+            "mapping": "unknown",
+            "customBlockName": "aiunknown-o27a5t-786907495"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/understand-your-risk",
+            "id": "box-id-100596186",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 756,
+            "height": 267,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[4]/div[2]/div[3]/p[2]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 261,
+            "y": 2739,
+            "mapping": "unknown",
+            "customBlockName": "aiunknown-o27a5t-100596186"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/understand-your-risk",
+            "id": "box-id-988099867",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 756,
+            "height": 259,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[4]/div[2]/div[4]/p[2]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 261,
+            "y": 2833,
+            "mapping": "unknown",
+            "customBlockName": "aiunknown-o27a5t-988099867"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/understand-your-risk",
+            "id": "box-id-1875603548",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 756,
+            "height": 262,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[4]/div[2]/div[5]/p[2]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 261,
+            "y": 2987,
+            "mapping": "unknown",
+            "customBlockName": "aiunknown-o27a5t-1875603548"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/understand-your-risk",
+            "id": "box-id--1531860067",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 756,
+            "height": 292,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[4]/div[2]/div[6]/p[2]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 261,
+            "y": 3058,
+            "mapping": "unknown",
+            "customBlockName": "aiunknown-o27a5t-1531860067"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/understand-your-risk",
+            "id": "box-id-1371549108",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 234,
+            "height": 220,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[4]/div[2]/div[7]/p[2]/img[2]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 522,
+            "y": 3185,
+            "mapping": "unknown",
+            "customBlockName": "aiunknown-o27a5t-1371549108"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/understand-your-risk",
+            "id": "box-id-1371549139",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 234,
+            "height": 193,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[4]/div[2]/div[7]/p[2]/img[3]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 762,
+            "y": 3212,
+            "mapping": "unknown",
+            "customBlockName": "aiunknown-o27a5t-1371549139"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/understand-your-risk",
+            "id": "box-id-1130650976",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 756,
+            "height": 287,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[4]/div[2]/div[9]/p[2]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 261,
+            "y": 3310,
+            "mapping": "unknown",
+            "customBlockName": "aiunknown-o27a5t-1130650976"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/understand-your-risk",
+            "id": "box-id-1659891731",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 526,
+            "height": 50,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[5]/div[1]/div[2]/form[1]/div[1]/div[1]/section[1]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 564,
+            "y": 3744,
+            "mapping": "unknown",
+            "customBlockName": "aiunknown-o27a5t-1659891731"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/help-protect-yourself",
+            "id": "box-id--1216204363",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 373,
+            "height": 439,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/section[1]/div[1]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 150,
+            "y": 663,
+            "mapping": "unknown",
+            "customBlockName": "aiunknown-qcdhqq-1216204363"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/help-protect-yourself",
+            "id": "box-id--1216204332",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 373,
+            "height": 439,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/section[1]/div[2]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 453,
+            "y": 663,
+            "mapping": "unknown",
+            "customBlockName": "aiunknown-qcdhqq-1216204332"
+          },
+          {
+            "url": "https://www.knowpneumonia.com/unsubscribe",
+            "id": "box-id-1722200738",
+            "color": "rgba(0, 255, 0, 1)",
+            "width": 1112,
+            "height": 90,
+            "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+            "childrenXpaths": null,
+            "layout": {
+              "numCols": 0,
+              "numRows": 0
+            },
+            "x": 84,
+            "y": 484,
+            "mapping": "unknown",
+            "customBlockName": "aiunknown-cm8jx6-1722200738"
+          }
+        ]
+      }
+    ]
+  }
+}
