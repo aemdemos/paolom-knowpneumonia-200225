@@ -1,0 +1,326 @@
+{
+  "url": "https://www.knowpneumonia.com/help-protect-yourself",
+  "browserOptions": {
+    "width": 1280,
+    "disableJS": false,
+    "adBlocker": true,
+    "gdprBlocker": true,
+    "delay": 0,
+    "screenshot": false,
+    "sectionMappingLimit": 10
+  },
+  "autoDetect": true,
+  "template": {
+    "raw": "/html[1]/body[1]/div[1]/div[1]/header[1]\n  - /html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[1]\n  - /html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]\n  /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]\n  /html[1]/body[1]/div[1]/div[1]/div[1]/div[3]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/h2[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/section[1]\n  /html[1]/body[1]/div[1]/div[1]/div[1]/div[4]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/section[1]/div[1]/div[1]/div[2]\n  /html[1]/body[1]/div[1]/div[1]/div[1]/section[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]\n  /html[1]/body[1]/div[1]/div[1]/div[1]/div[5]\n  /html[1]/body[1]/div[1]/div[1]/div[1]/div[6]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[6]/section[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[6]/section[1]/div[1]/div[1]/div[2]\n  /html[1]/body[1]/div[1]/div[1]/div[1]/div[7]\n  /html[1]/body[1]/div[1]/div[1]/div[1]/div[8]\n  /html[1]/body[1]/div[1]/div[1]/div[1]/section[2]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[2]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[3]\n  /html[1]/body[1]/div[1]/div[2]\n  - /html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]",
+    "hash": -1664192853
+  },
+  "pageHeight": 3378,
+  "mapping": [
+    {
+      "id": 2,
+      "path": "/help-protect-yourself",
+      "sections": [
+        {
+          "id": "2-1",
+          "blocks": [
+            {
+              "id": "box-id-571939969",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1112,
+              "height": 79,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[2]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Help-Protect\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item home analytics-menu-caret menu-item-with-dd\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[3]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Help-Protect\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item analytics-menu\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[4]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Help-Protect\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item analytics-menu\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[5]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Help-Protect\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item last-menu analytics-menu-caret menu-item-with-dd\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 4,
+                "numRows": 1
+              },
+              "x": 84,
+              "y": 100,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-qcdhqq-571939969"
+            },
+            {
+              "id": "box-id-1722200707",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1110,
+              "height": 379,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Help-Protect\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"help-protect-yourself\"]/div[@class=\"content-help-protect-yourself\"]/div[@class=\"banner-help-protect-yourself\"]/div[@class=\"banner-text\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/p[1]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Help-Protect\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"help-protect-yourself\"]/div[@class=\"content-help-protect-yourself\"]/div[@class=\"banner-help-protect-yourself\"]/div[@class=\"banner-text\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]/img[1]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Help-Protect\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"help-protect-yourself\"]/div[@class=\"content-help-protect-yourself\"]/div[@class=\"banner-help-protect-yourself\"]/div[@class=\"banner-text\"]/a[@class=\"hidden-xs analytics-anc-img\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 1,
+                "numRows": 3
+              },
+              "x": 85,
+              "y": 179,
+              "mapping": "hero",
+              "customBlockName": "aihero-qcdhqq-1722200707"
+            },
+            {
+              "id": "box-id--1628355057",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 980,
+              "height": 48,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/h2[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 150,
+              "y": 586,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-qcdhqq-1628355057"
+            },
+            {
+              "id": "box-id--1216204363",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 373,
+              "height": 439,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/section[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 150,
+              "y": 663,
+              "mapping": "unknown",
+              "customBlockName": "aiunknown-qcdhqq-1216204363"
+            },
+            {
+              "id": "box-id--1216204332",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 373,
+              "height": 439,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/section[1]/div[2]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 453,
+              "y": 663,
+              "mapping": "unknown",
+              "customBlockName": "aiunknown-qcdhqq-1216204332"
+            },
+            {
+              "id": "box-id-1722200800",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1200,
+              "height": 197,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/section[1]/div[1]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"true-false-question\")/div[@class=\"true-false-text\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/section[1]/div[1]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"true-false-question\")/div[@class=\"true-false-radio\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "x": 40,
+              "y": 1124,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-qcdhqq-1722200800"
+            },
+            {
+              "id": "box-id-1274378543",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 454,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[1]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Help-Protect\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/section[@class=\"know-this protect mobile-align\"]/div[@class=\"vaccine-benefits left-align flex-align-center\"]/div[@class=\"know-this-image\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Help-Protect\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/section[@class=\"know-this protect mobile-align\"]/div[@class=\"vaccine-benefits left-align flex-align-center\"]/div[@class=\"know-this-text\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "x": 0,
+              "y": 1321,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-qcdhqq-1274378543"
+            },
+            {
+              "id": "box-id-1722200831",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 147,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[5]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 1775,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-qcdhqq-1722200831"
+            },
+            {
+              "id": "box-id-1722200862",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1200,
+              "height": 223,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[6]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[6]/section[1]/div[1]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"true-false-question1\")/div[@class=\"true-false-text\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[6]/section[1]/div[1]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"true-false-question1\")/div[@class=\"true-false-radio\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "x": 40,
+              "y": 1922,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-qcdhqq-1722200862"
+            },
+            {
+              "id": "box-id-1722200893",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 288,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[7]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 0,
+              "y": 2195,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-qcdhqq-1722200893"
+            },
+            {
+              "id": "box-id-1722200924",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1100,
+              "height": 144,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[8]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 90,
+              "y": 2528,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-qcdhqq-1722200924"
+            },
+            {
+              "id": "box-id-1274378574",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1280,
+              "height": 296,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[2]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"section-2\")"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[2]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Help-Protect\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/section[@class=\"help-protect-self\"]/div[@class=\"common-menu\"]/div[@id=\"section-3\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[3]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Help-Protect\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/section[@class=\"help-protect-self\"]/div[@class=\"common-menu\"]/div[@id=\"section-3\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 3,
+                "numRows": 1
+              },
+              "x": 0,
+              "y": 2672,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-qcdhqq-1274378574"
+            },
+            {
+              "id": "box-id-1562427395",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1150,
+              "height": 95,
+              "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Help-Protect\"]/div[@class=\"main-wrapper\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items has-sub-menu\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Help-Protect\"]/div[@class=\"main-wrapper\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Help-Protect\"]/div[@class=\"main-wrapper\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[5]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Help-Protect\"]/div[@class=\"main-wrapper\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items has-sub-menu\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 4,
+                "numRows": 1
+              },
+              "x": 40,
+              "y": 3024,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-qcdhqq-1562427395"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

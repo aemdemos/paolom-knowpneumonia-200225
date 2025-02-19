@@ -1,0 +1,129 @@
+{
+  "url": "https://www.knowpneumonia.com/unsubscribe",
+  "browserOptions": {
+    "width": 1280,
+    "disableJS": false,
+    "adBlocker": true,
+    "gdprBlocker": true,
+    "delay": 0,
+    "screenshot": false,
+    "sectionMappingLimit": 10
+  },
+  "autoDetect": true,
+  "template": {
+    "raw": "/html[1]/body[1]/div[1]/div[1]/header[1]\n  - /html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[1]\n  - /html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]\n  /html[1]/body[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[2]\n  /html[1]/body[1]/div[1]/div[1]/div[3]\n  - /html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]",
+    "hash": -539605469
+  },
+  "pageHeight": 1090,
+  "mapping": [
+    {
+      "id": 2,
+      "path": "/unsubscribe",
+      "sections": [
+        {
+          "id": "2-1",
+          "blocks": [
+            {
+              "id": "box-id-571939969",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1112,
+              "height": 79,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[2]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Unsubscribe\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item home analytics-menu-caret menu-item-with-dd\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[3]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Unsubscribe\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item analytics-menu\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[4]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Unsubscribe\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item analytics-menu\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[5]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Unsubscribe\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item last-menu analytics-menu-caret menu-item-with-dd\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 4,
+                "numRows": 1
+              },
+              "x": 84,
+              "y": 100,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-cm8jx6-571939969"
+            },
+            {
+              "id": "box-id-1722200707",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1112,
+              "height": 305,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 84,
+              "y": 179,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-cm8jx6-1722200707"
+            },
+            {
+              "id": "box-id-1722200738",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1112,
+              "height": 90,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 84,
+              "y": 484,
+              "mapping": "unknown",
+              "customBlockName": "aiunknown-cm8jx6-1722200738"
+            },
+            {
+              "id": "box-id--1295421403",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1150,
+              "height": 95,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Unsubscribe\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items has-sub-menu\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[3]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Unsubscribe\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[4]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Unsubscribe\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Unsubscribe\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items has-sub-menu\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 4,
+                "numRows": 1
+              },
+              "x": 40,
+              "y": 736,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-cm8jx6-1295421403"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,3 +1,40 @@
 {
-  "mappings": []
+  "mappings": [
+    {
+      "path": "tools/importer/mappings/nav.json"
+    },
+    {
+      "path": "tools/importer/mappings/footer.json"
+    },
+    {
+      "path": "tools/importer/mappings/index.json"
+    },
+    {
+      "path": "tools/importer/mappings/what-is-pneumococcal-disease.json"
+    },
+    {
+      "path": "tools/importer/mappings/symptoms-and-impact.json"
+    },
+    {
+      "path": "tools/importer/mappings/understand-your-risk.json"
+    },
+    {
+      "path": "tools/importer/mappings/help-protect-yourself.json"
+    },
+    {
+      "path": "tools/importer/mappings/sitemap.json"
+    },
+    {
+      "path": "tools/importer/mappings/unsubscribe.json"
+    },
+    {
+      "path": "tools/importer/mappings/take-action.json"
+    },
+    {
+      "path": "tools/importer/mappings/share-your-story.json"
+    },
+    {
+      "path": "tools/importer/mappings/helpful-resources.json"
+    }
+  ]
 }
