@@ -1,0 +1,56 @@
+{
+  "url": "https://www.knowpneumonia.com/",
+  "browserOptions": {
+    "width": 1280,
+    "disableJS": false,
+    "adBlocker": true,
+    "gdprBlocker": true,
+    "delay": 0,
+    "screenshot": false,
+    "sectionMappingLimit": 10
+  },
+  "autoDetect": true,
+  "template": {
+    "raw": "/html[1]/body[1]/div[1]/div[1]/header[1]\n  - /html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[1]\n  - /html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]\n  /html[1]/body[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[2]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[3]\n  /html[1]/body[1]/div[1]/div[1]/div[2]\n  - /html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]",
+    "hash": -911509143
+  },
+  "pageHeight": 2434,
+  "mapping": [
+    {
+      "id": "nav-1",
+      "path": "/nav",
+      "sections": [
+        {
+          "id": "nav-1-1",
+          "blocks": [
+            {
+              "id": "box-id-571939938",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1112,
+              "height": 100,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[1]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[1]/div[1]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Home-page\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-utility\"]/div[@class=\"header-logo\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[1]/div[2]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Home-page\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-utility\"]/div[@class=\"utility-section new-font-section header-social-icons\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "x": 84,
+              "y": 0,
+              "mapping": "header",
+              "customBlockName": "aiheader-3uowvd-571939938"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

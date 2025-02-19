@@ -1,0 +1,52 @@
+{
+  "url": "https://www.knowpneumonia.com/",
+  "browserOptions": {
+    "width": 1280,
+    "disableJS": false,
+    "adBlocker": true,
+    "gdprBlocker": true,
+    "delay": 0,
+    "screenshot": false,
+    "sectionMappingLimit": 10
+  },
+  "autoDetect": true,
+  "template": {
+    "raw": "/html[1]/body[1]/div[1]/div[1]/header[1]\n  - /html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[1]\n  - /html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]\n  /html[1]/body[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[2]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[3]\n  /html[1]/body[1]/div[1]/div[1]/div[2]\n  - /html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]",
+    "hash": -911509143
+  },
+  "pageHeight": 2434,
+  "mapping": [
+    {
+      "id": "footer-1",
+      "path": "/footer",
+      "sections": [
+        {
+          "id": "footer-1-1",
+          "blocks": [
+            {
+              "id": "box-id-1754781443",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1150,
+              "height": 100,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Home-page\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row2\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "x": 40,
+              "y": 2229,
+              "mapping": "footer",
+              "customBlockName": "aifooter-3uowvd-1754781443"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
