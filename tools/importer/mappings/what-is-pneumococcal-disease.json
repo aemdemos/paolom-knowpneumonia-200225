@@ -1,0 +1,321 @@
+{
+  "url": "https://www.knowpneumonia.com/what-is-pneumococcal-disease",
+  "browserOptions": {
+    "width": 1280,
+    "disableJS": false,
+    "adBlocker": true,
+    "gdprBlocker": true,
+    "delay": 0,
+    "screenshot": false
+  },
+  "autoDetect": true,
+  "template": {
+    "raw": "/html[1]/body[1]/div[1]/div[1]/header[1]\n  - /html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[1]\n  - /html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]\n  /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[2]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[3]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]\n  - /html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[4]\n  /html[1]/body[1]/div[1]/div[1]/div[2]\n  - /html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]\n  - /html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]",
+    "hash": 1827949453
+  },
+  "pageHeight": 3182,
+  "mapping": [
+    {
+      "id": 2,
+      "path": "/what-is-pneumococcal-disease",
+      "sections": [
+        {
+          "id": "2-1",
+          "blocks": [
+            {
+              "id": "box-id-571939969",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1112,
+              "height": 79,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[2]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Pneumonia\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item home analytics-menu-caret menu-item-with-dd\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[3]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Pneumonia\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item analytics-menu\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[4]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Pneumonia\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item analytics-menu\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/header[1]/div[1]/header[1]/section[1]/section[2]/ul[1]/li[5]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Pneumonia\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/header[@class=\"navigation\"]/div[@class=\"final-content-wrapper\"]/header[@class=\"header site-header\"]/section[@class=\"content-container\"]/section[@class=\"header-menu\"]/ul[@class=\"menu\"]/li[@class=\"menu-item last-menu analytics-menu-caret menu-item-with-dd\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 4,
+                "numRows": 1
+              },
+              "x": 84,
+              "y": 100,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-qk6bif-571939969"
+            },
+            {
+              "id": "box-id-317662914",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1100,
+              "height": 484,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Pneumonia\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container pneumonia-disease\"]/div[@class=\"what-is-pneumonia\"]/div[@class=\"content-what-is-pneumonia\"]/div[@class=\"banner-what-is-pneumonia mobile-align\"]/div[@class=\"banner-text pneumonia-banner\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Pneumonia\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container pneumonia-disease\"]/div[@class=\"what-is-pneumonia\"]/div[@class=\"content-what-is-pneumonia\"]/div[@class=\"banner-what-is-pneumonia mobile-align\"]/div[@class=\"video-banner\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "x": 90,
+              "y": 179,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-qk6bif-317662914"
+            },
+            {
+              "id": "box-id--455466449",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1100,
+              "height": 48,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/h2[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 90,
+              "y": 678,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-qk6bif-455466449"
+            },
+            {
+              "id": "box-id--882778667",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 345,
+              "height": 480,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 50,
+              "y": 754,
+              "mapping": "unknown",
+              "customBlockName": "aiunknown-qk6bif-882778667"
+            },
+            {
+              "id": "box-id--882778636",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 345,
+              "height": 480,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/section[1]/div[2]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 315,
+              "y": 754,
+              "mapping": "unknown",
+              "customBlockName": "aiunknown-qk6bif-882778636"
+            },
+            {
+              "id": "box-id--94652946",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1100,
+              "height": 476,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[1]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Pneumonia\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container pneumonia-disease\"]/div[@class=\"what-is-pneumonia\"]/section[@class=\"know-this mobile-align\"]/div[@class=\"vaccine-benefits flex-align-center\"]/div[@class=\"know-this-image\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[1]/div[2]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Pneumonia\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container pneumonia-disease\"]/div[@class=\"what-is-pneumonia\"]/section[@class=\"know-this mobile-align\"]/div[@class=\"vaccine-benefits flex-align-center\"]/div[@class=\"know-this-text\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "x": 90,
+              "y": 1235,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-qk6bif-94652946"
+            },
+            {
+              "id": "box-id--1971040680",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 365,
+              "height": 350,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[1]/div[1]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 90,
+              "y": 1651,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-qk6bif-1971040680"
+            },
+            {
+              "id": "box-id--94652915",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1100,
+              "height": 218,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[2]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[2]/div[1]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Pneumonia\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container pneumonia-disease\"]/div[@class=\"what-is-pneumonia\"]/section[@class=\"higher-risk-section\"]/div[@class=\"higher-risk\"]/div[@class=\"higher-risk-content\"]/div[@class=\"higher-risk-older analytics-parent-order\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[2]/div[1]/div[2]/div[3]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Pneumonia\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container pneumonia-disease\"]/div[@class=\"what-is-pneumonia\"]/section[@class=\"higher-risk-section\"]/div[@class=\"higher-risk\"]/div[@class=\"higher-risk-content\"]/div[@class=\"higher-risk-younger analytics-parent-order\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "x": 90,
+              "y": 1711,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-qk6bif-94652915"
+            },
+            {
+              "id": "box-id--94652884",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1100,
+              "height": 147,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[3]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 90,
+              "y": 1929,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-qk6bif-94652884"
+            },
+            {
+              "id": "box-id-317662976",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1100,
+              "height": 173,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/section[1]/div[1]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"true-false-question\")/div[@class=\"true-false-text\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[3]/section[1]/div[1]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"true-false-question\")/div[@class=\"true-false-radio\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 2,
+                "numRows": 1
+              },
+              "x": 90,
+              "y": 2126,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-qk6bif-317662976"
+            },
+            {
+              "id": "box-id-317663007",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1100,
+              "height": 144,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[4]",
+              "childrenXpaths": null,
+              "layout": {
+                "numCols": 0,
+                "numRows": 0
+              },
+              "x": 90,
+              "y": 2344,
+              "mapping": "defaultContent",
+              "customBlockName": "aidefaultContent-qk6bif-317663007"
+            },
+            {
+              "id": "box-id--94652853",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1100,
+              "height": 284,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[4]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[4]/div[1]/div[1]",
+                  "xpathWithDetails": "id(\"section-1\")"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[4]/div[1]/div[2]",
+                  "xpathWithDetails": "id(\"section-2\")"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[4]/div[1]/div[3]",
+                  "xpathWithDetails": "id(\"section-3\")"
+                }
+              ],
+              "layout": {
+                "numCols": 3,
+                "numRows": 1
+              },
+              "x": 90,
+              "y": 2488,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-qk6bif-94652853"
+            },
+            {
+              "id": "box-id-1754781412",
+              "color": "rgba(0, 255, 0, 1)",
+              "width": 1150,
+              "height": 95,
+              "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+              "childrenXpaths": [
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Pneumonia\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items has-sub-menu\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Pneumonia\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Pneumonia\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items\"]"
+                },
+                {
+                  "xpath": "/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[5]",
+                  "xpathWithDetails": "/html[@class=\"body-div\"]/body[@class=\"Pneumonia\"]/div[@class=\"main-wrapper\"]/div[@class=\"main-content\"]/div[@class=\"container\"]/div[@class=\"footer-block clear-side\"]/div[@class=\"footer-content\"]/div[@class=\"row1\"]/div[@class=\"footer-links\"]/div[@class=\"footer-items has-sub-menu\"]"
+                }
+              ],
+              "layout": {
+                "numCols": 4,
+                "numRows": 1
+              },
+              "x": 40,
+              "y": 2828,
+              "mapping": "columns",
+              "customBlockName": "aicolumns-qk6bif-1754781412"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
